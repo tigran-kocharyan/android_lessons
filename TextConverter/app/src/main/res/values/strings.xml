@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextConverter</string>
+    <string name="input_text">Input Text:</string>
+    <string name="output_text">Output Text:</string>
+    <string name="text_converter">Text Converter</string>
+    <string name="convert">Convert</string>
+    <string name="result_text">Result text</string>
+</resources>
