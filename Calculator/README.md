@@ -8,7 +8,7 @@
 * `Relative Layout` + `Linear Layouts` within it with horizontal orientations.
 
 
-* Thus it has Linear Layouts, button weights are used.
+* Buttons `weight` param is used.
 
 
 * Code-level `Views` editing with `findByViewId()` method.
