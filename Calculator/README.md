@@ -5,16 +5,19 @@
 ## Features and Topics covered:
 
 
-* Relative Layout + Linear Layouts within it with weights.
+* `Relative Layout` + `Linear Layouts` within it with horizontal orientations.
 
 
-* Code-level Views editing with `findByViewId()` method.
+* Thus it has Linear Layouts, button weights are used.
+
+
+* Code-level `Views` editing with `findByViewId()` method.
 
 
 * Common `OnClickListener` for all buttons with `switch`-options.
  
  
-* Enables and disables buttons for correct application work. 
+* `Enables` and `disables` buttons for correct application work. 
 ---
 
 ## Example:
@@ -36,7 +39,7 @@
 
 * Feel free to use it 😉
 
-* Advise add OOP features in here when you use it 🙃
+* Horizontal Orientation breaks. At the moment cannot figure it out. Soon to be fixed 🛠️.
 ---
 
 
