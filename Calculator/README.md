@@ -17,7 +17,7 @@
 * Common `OnClickListener` for all buttons with `switch`-options.
  
  
-* `Enables` and `disables` buttons for correct application work. 
+* `Enables` and `Disables` buttons for correct application work. 
 ---
 
 ## Example:
