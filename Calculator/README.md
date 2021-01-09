@@ -39,7 +39,7 @@
 
 * Feel free to use it 😉
 
-* Horizontal Orientation breaks. At the moment cannot figure it out. Soon to be fixed 🛠️.
+* Horizontal Orientation breaks. At the moment cannot figure out solution. Soon to be fixed 🛠️.
 ---
 
 
