@@ -1,5 +1,5 @@
 # Android Development.
-## Kocharyan Tigran.
+## Author: Kocharyan Tigran.
 ---
 
 
